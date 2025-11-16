@@ -24,16 +24,19 @@ Frontend (Puerto 3001):
 ▶️ Ejecución del proyecto
 
 🖥️ Backend:
+
 📌 Instalación:
-    cd backend
-    npm install
+cd backend
+npm install
 
 ▶️ Ejecutar
   npm run dev
 
 
 🌐 Frontend:
+
 📌 Instalación:
+
   cd frontend
   npm install
 
