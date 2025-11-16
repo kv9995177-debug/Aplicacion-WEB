@@ -28,9 +28,11 @@ Frontend (Puerto 3001):
 📌 Instalación:
 
 cd backend
+
 npm install
 
-▶️ Ejecutar
+▶️ Ejecutar:
+
   npm run dev
 
 
@@ -39,14 +41,16 @@ npm install
 📌 Instalación:
 
   cd frontend
+  
   npm install
 
 
 ▶️ Ejecutar:
+
   npm start
 
 
-🔗 Comunicación entre frontend, backend y base de datos
+🔗 Comunicación entre frontend, backend y base de datos:
 
 El frontend se comunica con el backend enviando peticiones HTTP a http://localhost:3000.
 
