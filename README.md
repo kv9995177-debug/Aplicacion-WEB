@@ -4,7 +4,7 @@ Este proyecto es una aplicación web completa que incluye un backend desarrollad
 Ambas partes trabajan de manera conjunta para ofrecer una solución funcional, modular y escalable.
 
 🚀 Tecnologías utilizadas
-Backend (Puerto 3000):
+Backend:
 
   Node.js
   
